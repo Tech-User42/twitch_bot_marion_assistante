@@ -15,6 +15,7 @@ try:
         version = {
             "name": 1.0
         }
+    print(response.json()["name"])
     if(response.json()["name"] != version["name"]):
         print("New update found, updating...")
         if os.path.exists(repo_local_path):
@@ -27,13 +28,12 @@ try:
             repo = Repo.clone_from(repo_url, repo_local_path)
         with open("../UPDATE/version.json", 'w') as f:
             json.dump(response.json(), f)
-        os.system("pip3 install -U --no-cache-dir --force-reinstall -r requirements.txt")
+        os.system("pip3 install -U --no-cache-dir --force-reinstall -r ../requirements.txt")
         print("Update done !")
     else:
         print("No update found.")
     print("Authenticating on Twitch...")
     exit(0)
-except:
+except Exception as E:
     print("Failed to get update data !")
     exit(-1)
-
