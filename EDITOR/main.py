@@ -21,11 +21,6 @@ class App(customtkinter.CTk):
         image_path = os.path.join(os.path.dirname(os.path.realpath(__file__)), "imgs")
         self.logo_image = customtkinter.CTkImage(Image.open(os.path.join(image_path, "twitch_small_logo.png")), size=(26, 26))
     
-        self.image_icon_image = customtkinter.CTkImage(Image.open(os.path.join(image_path, "cloud.png")), size=(20, 20))
-
-        self.add_user_image = customtkinter.CTkImage(light_image=Image.open(os.path.join(image_path, "cloud.png")),
-                                                     dark_image=Image.open(os.path.join(image_path, "cloud.png")), size=(20, 20))
-
         # create navigation frame
         self.navigation_frame = customtkinter.CTkFrame(self, corner_radius=0)
         self.navigation_frame.grid(row=0, column=0, sticky="nsew")

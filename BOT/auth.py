@@ -57,10 +57,14 @@ def authenticate():
 
     if access_token:
         return access_token
+    else:
+        SRV_THREAD.start()
+        auth_url = f"https://id.twitch.tv/oauth2/authorize?client_id={client_id}&redirect_uri={redirect_uri}&response_type=code&scope=chat:read+chat:edit"
+        open_new_tab(auth_url)
+        print(f"Ouverture du navigateur, en cas de problèmes voici le lien :\n{auth_url}")
+        SRV_THREAD.join(15)
 
-    auth_url = f"https://id.twitch.tv/oauth2/authorize?client_id={client_id}&redirect_uri={redirect_uri}&response_type=code&scope=chat:read+chat:edit"
-    open_new_tab(auth_url)
-    print(f"Ouverture du navigateur, en cas de problèmes voici le lien :\n{auth_url}")
+
     
 
 
@@ -96,10 +100,7 @@ SRV_THREAD = Thread(target=SRV)
 SRV_THREAD.daemon = True
 
 def main():
-    authenticate()
-    SRV_THREAD.start()
-    SRV_THREAD.join(15)
-    
+    authenticate()    
 
 if __name__ == "__main__":
     main()
