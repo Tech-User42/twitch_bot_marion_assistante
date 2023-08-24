@@ -1,0 +1,16 @@
+[
+    {
+        "id": "0",
+        "HaveBeenAsked": false,
+        "WhoResponded": false,
+        "Question": "Quel est l'animal le plus rapide du monde ?",
+        "Response": "Ta daronne."
+    },
+    {
+        "id": "1",
+        "HaveBeenAsked": true,
+        "WhoResponded": "marion_bot",
+        "Question": "C'est quoi cette odeur",
+        "Response": "Ah mais c'est ta soeur."
+    }
+]

@@ -1,0 +1,6 @@
+twitchio
+python-dotenv
+requests
+pillow
+customtkinter
+flask

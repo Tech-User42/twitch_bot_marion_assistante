@@ -1,0 +1,184 @@
+[
+    {
+      "id": 0,
+      "HaveBeenAsked": false,
+      "WhoResponded": false,
+      "Response": "Abductor Virgins",
+      "Question": "Ce sont des constructions mécaniques mortelles qui brandissent d'énormes lames. Qui sont-ils ?"
+    },
+    {
+      "id": 1,
+      "HaveBeenAsked": false,
+      "WhoResponded": false,
+      "Response": "Alecto, Black Knife Ringleader",
+      "Question": "Agile et agressif, je suis un guerrier redoutable. Même ceux avec une couverture de bouclier doivent se méfier de moi... Qui suis-je ?"
+    },
+    {
+      "id": 2,
+      "HaveBeenAsked": false,
+      "WhoResponded": false,
+      "Response": "Alecto Black Knife Ringleader",
+      "Question": "Agile et agressif, je suis un guerrier redoutable. Même ceux avec une couverture de bouclier doivent se méfier de moi... Qui suis-je ?"
+    },
+    {
+      "id": 3,
+      "HaveBeenAsked": false,
+      "WhoResponded": false,
+      "Response": "Alabaster Lord",
+      "Question": "Je suis un prisonnier d'Evergaol brandissant une épée vicieuse et utilisant le vide pour tuer. Qui suis-je ?"
+    },
+    {
+      "id": 4,
+      "HaveBeenAsked": false,
+      "WhoResponded": false,
+      "Response": "Adan, Thief Of Fire",
+      "Question": "Ancien mage de bataille devenu prisonnier d'Evergaol. J'utilise une fléchette cloutée et la magie du feu volée avec grand effet. Qui suis-je ?"
+    },
+    {
+      "id": 5,
+      "HaveBeenAsked": false,
+      "WhoResponded": false,
+      "Response": "Ancient Dragon Lansseax",
+      "Question": "J'étais la sœur de Fortissax. On dit que j'ai pris forme humaine pour communier avec les chevaliers en tant que prêtresse du culte du dragon ancien. Qui suis-je ?"
+    },
+    {
+      "id": 6,
+      "HaveBeenAsked": false,
+      "WhoResponded": false,
+      "Response": "Ancestor Spirit",
+      "Question": "Esprit brillant prenant la forme d'un grand cerf, devenant menaçant en chargeant les cibles. Qui suis-je ?"
+    },
+    {
+      "id": 7,
+      "HaveBeenAsked": false,
+      "WhoResponded": false,
+      "Response": "Ancient Hero Of Zamor",
+      "Question": "Créature remarquablement agile faite de givre, sensible aux attaques magiques. Qui suis-je ?"
+    },
+    {
+      "id": 8,
+      "HaveBeenAsked": false,
+      "WhoResponded": false,
+      "Response": "Beast Clergyman",
+      "Question": "Temporairement submergé par leur rage bestiale, les Clergymen attaquent férocement en lançant des rochers et en se jetant sur leurs ennemis. Calmez leur agression pour les ramener à la raison. Qui sont-ils ?"
+    },
+    {
+      "id": 9,
+      "HaveBeenAsked": false,
+      "WhoResponded": false,
+      "Response": "Astel, Stars Of Darkness",
+      "Question": "Créature hostile massive ressemblant à une libellule. Menace et extrêmement puissante. Qui suis-je ?"
+    },
+    {
+      "id": 10,
+      "HaveBeenAsked": false,
+      "WhoResponded": false,
+      "Response": "Beast Of Farum Azula",
+      "Question": "Créature vivant sous terre, trouvée dans la grotte de Groveside. Qui suis-je ?"
+    },
+    {
+      "id": 11,
+      "HaveBeenAsked": false,
+      "WhoResponded": false,
+      "Response": "Beastman Of Farum Azula",
+      "Question": "Les bêtes de Groveside Cave se rassemblent autour de la puissance du Beastman de Farum Azula. Qui suis-je ?"
+    },
+    {
+      "id": 12,
+      "HaveBeenAsked": false,
+      "WhoResponded": false,
+      "Response": "Bell Bearing Hunter",
+      "Question": "Menacant et lent, je brandis une grande épée rougeoyante et un bouclier combinés avec une armure complète et une cape effrayante. Qui suis-je ?"
+    },
+    {
+      "id": 13,
+      "HaveBeenAsked": false,
+      "WhoResponded": false,
+      "Response": "Black Blade Kindred",
+      "Question": "Gargouille imposante brandissant un armement massif. Qui suis-je ?"
+    },
+    {
+      "id": 14,
+      "HaveBeenAsked": false,
+      "WhoResponded": false,
+      "Response": "Black Knife Assassin",
+      "Question": "Figures sombres et agiles portant des couteaux cramoisis. Qui sont-ils ?"
+    },
+    {
+      "id": 15,
+      "HaveBeenAsked": false,
+      "WhoResponded": false,
+      "Response": "Bloodhound Knight Darriwil",
+      "Question": "Les chiens de sang impitoyables attaquent avec grâce et agilité, ne reculant jamais ni ne donnant de répit. Qui suis-je ?"
+    },
+    {
+      "id": 16,
+      "HaveBeenAsked": false,
+      "WhoResponded": false,
+      "Response": "Burial Tree Watchdog",
+      "Question": "Gardien félin canin qui veille sur l'Arbre Funéraire des Catacombes de Stormfoot. Qui suis-je ?"
+    },
+    {
+      "id": 17,
+      "HaveBeenAsked": false,
+      "WhoResponded": false,
+      "Response": "Cleanrot Knight",
+      "Question": "Chevalier puissant et habile capable d'attaques à distance très rapides. Sa lance et son épée sont une menace pour tout combattant légèrement armé. Qui suis-je ?"
+    },
+    {
+      "id": 18,
+      "HaveBeenAsked": false,
+      "WhoResponded": false,
+      "Response": "Borealis The Freezing Fog",
+      "Question": "Dragon de givre gardant le lac gelé de Mountaintop of Giants, émettant une tempête de neige permanente. Qui suis-je ?"
+    },
+    {
+      "id": 19,
+      "HaveBeenAsked": false,
+      "WhoResponded": false,
+      "Response": "Commander Niall",
+      "Question": "Commander Niall est un chevalier grand et costaud avec une jambe de bois, vêtu d'une armure lourde et brandissant une hallebarde qui fait office d'étendard de bataille. Il est accompagné de deux Chevaliers Bannis Spectraux, l'un équipé d'épées doubles et l'autre d'une épée et d'un bouclier. Qui suis-je ?"
+    },
+    {
+      "id": 20,
+      "HaveBeenAsked": false,
+      "WhoResponded": false,
+      "Response": "Commander O'neil",
+      "Question": "Commandant humain imposant brandissant une hallebarde qui fait office d'étendard de bataille, incitant ses sbires spirituels au combat avec un fervent inextinguible. Qui suis-je ?"
+    },
+    {
+      "id": 21,
+      "HaveBeenAsked": false,
+      "WhoResponded": false,
+      "Response": "Crucible Knight Ordovis",
+      "Question": "Dragon de givre gardant le lac gelé de Mountaintop of Giants, émettant une tempête de neige permanente. Qui suis-je ?"
+    },
+    {
+      "id": 22,
+      "HaveBeenAsked": false,
+      "WhoResponded": false,
+      "Response": "Crystalians",
+      "Question": "Énergie cristalline prenant la forme d'un humain d'une puissance dévastatrice. Qui sont-ils ?"
+    },
+    {
+      "id": 23,
+      "HaveBeenAsked": false,
+      "WhoResponded": false,
+      "Response": "Deathbird",
+      "Question": "Oiseau bipède avec des bras et un crâne d'oiseau pour tête, trouvé dans divers endroits. Qui suis-je ?"
+    },
+    {
+      "id": 24,
+      "HaveBeenAsked": false,
+      "WhoResponded": false,
+      "Response": "Decaying Ekzykes",
+      "Question": "Dragon blanchâtre aux écailles ravagées par la pourriture écarlate qui sévit dans la région de Caelid. Qui suis-je ?"
+    },
+    {
+      "id": 25,
+      "HaveBeenAsked": false,
+      "WhoResponded": false,
+      "Response": "Demi-human Chief",
+      "Question": "Les ténèbres de la Grotte Côtière abritent un repaire de ceux qui ressemblent presque à des humains, mais qui ne le sont certainement pas. Qui suis-je ?"
+    }
+  ]
