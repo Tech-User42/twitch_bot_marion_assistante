@@ -1,6 +1,6 @@
 @echo off
-echo Checking bot token...
 title Twitch BOT
+python ../UPDATE/main.py
 python auth.py
 cls
 python main.py
