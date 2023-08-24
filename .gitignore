@@ -2,4 +2,3 @@ BOT/DATASTORE/Quizz/Old_Data/*.json
 BOT/DATASTORE/connect.json
 __pycache__/
 .env
-UPDATE/version.json
