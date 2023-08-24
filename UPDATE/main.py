@@ -15,7 +15,7 @@ try:
         version = {
             "name": 1.0
         }
-    print(response.json()["name"])
+    print("Latest version : "+response.json()["name"])
     if(response.json()["name"] != version["name"]):
         print("New update found, updating...")
         if os.path.exists(repo_local_path):
@@ -31,7 +31,7 @@ try:
         os.system("pip3 install -U --no-cache-dir --force-reinstall -r ../requirements.txt")
         print("Update done !")
     else:
-        print("No update found.")
+        print("Already up to date !")
     print("Authenticating on Twitch...")
     exit(0)
 except Exception as E:
