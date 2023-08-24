@@ -32,7 +32,6 @@ try:
         print("Update done !")
     else:
         print("Already up to date !")
-    print("Authenticating on Twitch...")
     exit(0)
 except Exception as E:
     print("Failed to get update data !")
